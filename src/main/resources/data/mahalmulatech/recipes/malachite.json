@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mahalmulatech:raw_malachite"
+  },
+  "result": "mahalmulatech:malachite",
+  "experience": 10,
+  "cookingtime": 64
+}
